@@ -7,6 +7,10 @@ on:
   # Allows manual triggering from the Actions tab
   workflow_dispatch:
 
+# Add explicit write permissions here
+permissions:
+  contents: write
+
 jobs:
   sync-latest-from-upstream:
     runs-on: ubuntu-latest
