@@ -22,5 +22,6 @@
 20. Class 18, 6 Sept 2026: [LU Talk: Topology-Preserving Contrastive Learning for Taxonomy Induction in Thai Lexical Semantics by Peerachet Porkaew](https://github.com/ye-kyaw-thu/AIE-F-B2/blob/main/slide/LCCL_Peerachet.pdf)  
 21. Class 19, 12 Sept 2026: [ASR Error Correction by Ye Bhone Lin](https://github.com/ye-kyaw-thu/AIE-F-B2/blob/main/slide/AEC_Slide_v2.pdf)  
 22. Class 19, 12 Sept 2026: [Introduction to the myMediWhisper Project by Ye Bhone Lin](https://github.com/ye-kyaw-thu/AIE-F-B2/blob/main/slide/myMediWhisper.pdf)  
-23. Class 24, 27 Sept 2026: [Statistical and Neural Machine Translation](https://github.com/ye-kyaw-thu/AIE-F-B2/blob/main/slide/smt-nmt.pdf)
+23. Class 24, 27 Sept 2026: [Statistical and Neural Machine Translation](https://github.com/ye-kyaw-thu/AIE-F-B2/blob/main/slide/smt-nmt.pdf)  
+24. Class 25, 3 Oct 2026: [Pattern Recognition and Machine Learning (PRML)](https://github.com/ye-kyaw-thu/AIE-F-B2/blob/main/slide/prml-20.pdf)
  
